@@ -1,16 +1,29 @@
-## Hi there 👋
+# Cruz Lawrence-Mayes
 
-<!--
-**cruzlawrencemayes/cruzlawrencemayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Data Analytics graduate with experience in IT support, business analytics, machine learning, and data visualization. I enjoy using data to solve operational and business problems through Python, Tableau, SQL, and analytics-driven decision making.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Data Visualization
+- IT & Business Systems Support
+- Process Improvement
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- Python
+- SQL
+- R
+- Tableau
+- Pandas & NumPy
+- Scikit-learn
+- Jupyter Notebook
+- Microsoft Excel
+- Git & GitHub
+- PHP
+
+## Current Focus
+Currently building a portfolio of analytics and machine learning projects focused on real-world business applications, predictive analytics, and operational insights.
+
+## Featured Projects
+Projects will be added here as they are completed and refined.
