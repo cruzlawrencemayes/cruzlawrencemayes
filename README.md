@@ -38,3 +38,6 @@ Business analytics and machine learning project focused on predicting customer c
 
 ### Netflix Content Strategy Analysis
 Tableau-based business analytics project exploring Netflix genre trends, content strategy shifts, and audience viewing patterns from 2015–2020.
+
+### Political Misinformation Text Analysis Using NLP
+Natural language processing (NLP) and text analytics project analyzing political misinformation patterns using topic modeling, semantic analysis, word embeddings, and dimensionality reduction techniques on political statement datasets.
