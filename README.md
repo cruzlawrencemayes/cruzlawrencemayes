@@ -9,6 +9,7 @@ M.S. Data Analytics graduate with experience in IT support, business analytics, 
 - Data Visualization
 - IT & Business Systems Support
 - Process Improvement
+- Environmental Sustainability
 
 ## Technical Skills
 - Python
